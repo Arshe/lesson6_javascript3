@@ -13,7 +13,7 @@ Web Application Development
 (Modify a photo gallery with and option to display 3 or 5 images in a carousel.)
 
 ### View Project:
-(https://arshe.github.io/lesson6_javascript3/.)
+(https://arshe.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (Elements can be added to a webpage.)
